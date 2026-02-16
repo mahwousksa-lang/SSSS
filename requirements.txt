@@ -1,0 +1,8 @@
+streamlit
+pandas
+rapidfuzz
+google-generativeai
+supabase
+openpyxl
+plotly
+requests
